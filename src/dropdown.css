@@ -1,0 +1,15 @@
+.dropdown {
+    position: absolute;
+    display: inline-block;
+    /* z-index: 3; */
+    
+}
+
+.dropdown {
+    background-color: black;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    /* width: 20px; */
+    /* height: 30px; */
+}
